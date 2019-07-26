@@ -1,0 +1,80 @@
+/* * {
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=3386);
+} */
+
+body {
+  background-image: url(https://media.giphy.com/media/10X5oVBTgURLtC/giphy.gif);
+  justify-content: space-around;
+  /* cursor: url(http://www.rw-designer.com/cursor-extern.php?id=3386);  */
+}
+
+.row1 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.row2 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.row3 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.row4 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.row5 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+  /* background-color: #C04AFF; */
+  background-image: url(https://i.stack.imgur.com/poux8.gif);
+font-size: 75px;
+font-family: 'Monoton', cursive;
+
+}
+
+.landscape1 {
+  border: 3px dashed #55FF4B;
+  height:300px
+}
+
+.landscape2 {
+  border: 3px dashed #FFF32A;
+  height:350px
+}
+
+.landscape3 {
+  border: 3px dashed #5C15FF;
+  height:400px
+}
+
+.portrait1 {
+  border: 3px solid #FF42AB;
+  height:500px;
+}
+
+.portrait2 {
+  border: 3px solid #FF174A;
+  height:525px;
+}
+
+.portrait3 {
+  border: 3px solid #00FCFF;
+  height:550px;
+}
+
+.square {
+  border: 3px dashed #55FF4B;
+  height:400px
+}
